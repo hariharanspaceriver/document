@@ -1,11 +1,12 @@
 const config = {
   title: 'Space Rivers',      
   tagline: 'Smart Construction Management Platform',
-  url: 'https://docs.spacerivers.com',  
-  baseUrl: '/',               
   favicon: 'img/logo.png',
-  projectName: 'space-rivers-doc', 
-  organizationName: 'space-rivers', 
+  url: 'https://hariharanspaceriver.github.io',
+  baseUrl: '/document/',
+  organizationName: 'hariharanspaceriver',
+  projectName: 'document',
+
 
   presets: [
     [
