@@ -55,6 +55,11 @@ const sidebars = {
           id: 'desktop/overview',
           label: 'Overview',
         },
+        {
+          type: 'doc',
+          id: 'desktop/schedule',
+          label: 'Schedule',
+        },
       ],
     },
   ],
